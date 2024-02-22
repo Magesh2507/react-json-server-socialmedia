@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "new post ",
+      "dateTime": "February 22, 2024 2:17:20 AM",
+      "body": "post add \n recently"
+    },
+    {
+      "id": 4,
+      "title": "Good morning",
+      "dateTime": "February 22, 2024 2:17:59 AM",
+      "body": "have a nice day\n"
+    },
+    {
+      "id": 5,
+      "title": "good evening",
+      "dateTime": "February 22, 2024 2:22:04 AM",
+      "body": "have nice evening"
+    }
+  ]
+}
